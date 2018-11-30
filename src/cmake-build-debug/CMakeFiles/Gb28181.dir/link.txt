@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/c++  -g -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/Gb28181.dir/main.cpp.o CMakeFiles/Gb28181.dir/SipUA.cpp.o CMakeFiles/Gb28181.dir/SipHeader.cpp.o  -o Gb28181 

@@ -1,0 +1,3 @@
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/cmake-build-debug/CMakeFiles/Gb28181.dir

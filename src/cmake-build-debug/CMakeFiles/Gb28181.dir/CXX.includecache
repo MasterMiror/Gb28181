@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipHeader.cpp
+SipHeader.h
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipHeader.h
+
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipHeader.h
+iostream
+-
+sstream
+-
+string
+-
+
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipUA.cpp
+iostream
+-
+SipUA.h
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipUA.h
+
+/Users/albert/Desktop/warehouse/vcyber/Gb28181Demo-1/src/SipUA.h
+osipparser2/osip_message.h
+-
+osipparser2/osip_parser.h
+-
+osipparser2/osip_port.h
+-
+eXosip2/eXosip.h
+-
+eXosip2/eX_setup.h
+-
+eXosip2/eX_register.h
+-
+eXosip2/eX_options.h
+-
+eXosip2/eX_message.h
+-
+
